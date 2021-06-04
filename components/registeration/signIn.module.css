@@ -1,0 +1,9 @@
+.SignInForm{
+  max-width: 40rem;
+  width: 80%;
+}
+
+.actions a{
+  display: flex;
+  margin: 2px;
+}

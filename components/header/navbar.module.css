@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 0 1rem;
+}
+
+.rightMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.avatar {
+  color: #f56a00;
+  background-color: #fde3cf;
+}
+
+.rightMenu h5 {
+  margin: 0;
+}
